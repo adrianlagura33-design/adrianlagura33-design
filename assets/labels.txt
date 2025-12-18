@@ -1,0 +1,10 @@
+0 box_braids
+1 braided_man_bun
+2 corn_braids
+3 feed_in_braids
+4 fishtail_braids
+5 men_pop_smoke
+6 stitch_braids
+7 two_strand_twists
+8 knotless_braids
+9 zig_zag_braids
